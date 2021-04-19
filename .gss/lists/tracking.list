@@ -1,0 +1,19 @@
+###############################################################################################
+#
+# Comments are allowed.
+#
+# Pattern syntax equal to grep syntax.
+#   Pattern example: /*.md
+#   Result: affecting all files with ".md" extension.
+#
+# BEWARE: do NOT use spaces in patterns! Spaces are splits pattern into separate patterns.
+#
+###############################################################################################
+
+# Examples:
+# ^readme.md
+# /*.hlsl
+# ./*.md
+# */*.md
+# */**/*.md
+# /path/to/file
